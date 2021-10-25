@@ -1,0 +1,2 @@
+﻿program won’t run because the first catch statement is catching an exception of a parent class before than a sub - class, so best practice to write multiple catch statements in exception handling is to catch specific exceptions at first and than at the last we should catch exception of a parent class i.e the Exception class.
+
